@@ -1,0 +1,5 @@
+Data: 01/03/24
+Cadastros:
+  -Funcionários: ok
+  -Unidades: ok
+  -CargoFuncionario: ok
